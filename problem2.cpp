@@ -1,3 +1,10 @@
+/*RUSHIMISHA DIEUDONNE 222013223
+NIYONGABO JEAN DE DIEU 222012223
+UWIHANGANYA OBED 222011553*/
+
+
+
+
 #include<iostream>
 using namespace std;
 int main() {
